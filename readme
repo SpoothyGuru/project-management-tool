@@ -1,0 +1,24 @@
+# 📌 Project Management Tool
+
+A simple **Project Management Tool** built with **Flask**.  
+It allows users to register, log in, manage projects, and track tasks easily.
+
+---
+
+## 🚀 Features
+- 🔐 User authentication (Register & Login)
+- 📁 Create and manage projects
+- ✅ Add, view, and complete tasks
+- 📊 Dashboard with project & task stats
+- 🎨 Clean UI with Bootstrap
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** Python (Flask)
+- **Database:** SQLite
+- **Frontend:** HTML, Bootstrap, CSS
+
+---
+
+## 📂 Project Structure
